@@ -1,0 +1,28 @@
+{
+  "jw": {
+    "id": "jw",
+    "first_name": "john",
+    "last_name": "wells",
+    "songs": [
+      "reach for the stars",
+      "counting sheep"
+    ]
+  },
+  "jw_1": {
+    "id": "jw_1",
+    "first_name": "joe",
+    "last_name": "waterman",
+    "songs": [
+      "singing cats",
+      "trials by fire"
+    ]
+  },
+  "cf": {
+    "id": "cf",
+    "first_name": "colin",
+    "last_name": "frank",
+    "songs": [
+      "lament"
+    ]
+  }
+}

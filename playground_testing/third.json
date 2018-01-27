@@ -1,0 +1,20 @@
+{
+  "jw": {
+    "first_name": "John",
+    "last_name": "Wells",
+    "initials": "jw",
+    "songs": ["song 1", "song 2", "song 3", "song 4"]
+  },
+  "df": {
+    "first_name": "Donald",
+    "last_name": "Fox",
+    "initials": "df",
+    "songs": ["song 7", "song 42"]
+  },
+  "kc": {
+    "first_name": "Kyle",
+    "last_name": "Carter",
+    "initials": "kc",
+    "songs": ["song 63"]
+  }
+}
